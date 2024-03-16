@@ -6,7 +6,6 @@ import Elephant from "./Elephant";
 import Ostrich from "./Ostrich";
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 import zooImg from "./zoo.jpeg";
-// import "./Home.css";
 function App() {
   return (
     <Router>
@@ -24,7 +23,6 @@ function App() {
               <Route path="/elephant" element={<Elephant />} />
               <Route path="/ostrich" element={<Ostrich />} />
             </Routes>
-            {/* Add routes to other animal pages */}
           </section>
         </main>
         <footer>
