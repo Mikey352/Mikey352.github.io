@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# grid-maker-starter-code
+This repository is the starter code for Assignment 3 - Grid Maker.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Live Link
+[Website link](https://johnnylaicode.github.io/grid-maker-starter-code/)
 
-## Available Scripts
+----------
+### 1. Use the following process to ***import*** the Assignment 3 starter code repository to your GitHub account as the starter codebase
+1.	Log on to GitHub
+2.	Click on the + sign in the top right corner (next to the user icon)
+3.	In the dropdown menu, select "Import repository"
+4.	A new page will open
+5.	In "Your old repository’s clone URL" field, enter: `https://github.com/johnnylaicode/grid-maker-starter-code`
+6.	In "Your new repository details" field, enter your own repository name (e.g., "assignment-3")
+7.	Click on the "Begin import" button to start the process
+8.	After the process completed, your new "assignment-3" repository is created – as a completely independent codebase
+9.	From this point on, you can clone your new repository, make changes, create feature branches, and create/merge pull requests
 
-In the project directory, you can run:
+----------
+### 2. Use the information below to ***clone*** the starter codebase to your local machine
+After creating the starter codebase "assignment-3" repository on GitHub (see above), you can clone it to your local machine. The instructions on how to clone a GitHub repository are available at this [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-### `npm start`
+----------
+### 3. Set up and deploy the application to GitHub Pages
+After your application development, you can deploy the application to GitHub Pages using the process below.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### 1. Create your GitHub Pages home website
+Before deploying a application to GitHub Pages, you need to first create your GitHub Pages home website `https://[your GitHub username].github.io`
+The instructions on how to create your GitHub Pages home website are available at this [link](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### 2. Deploy the application to GitHub Pages
+Follow the instructions at this [link](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) to deploy your application to GitHub Pages.
